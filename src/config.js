@@ -11,3 +11,4 @@ for(const [key, value] of Object.entries(config)) {
 }
 
 export default config;
+console.log(config);
