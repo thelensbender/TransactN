@@ -12,3 +12,11 @@ I used a config.js file because
 
 - using process.env for a lot of files can cause an issue like Misspelling.
 - Changing anything means I have update the change across files where they are used.
+
+## SQL
+
+I have never used SQL and starting to learn SQL from the basics while working on personal and group project, with joggling school activities is almost impossible. So, I wrote the SQL codes with the help of an AI. I tried writing similar queries using the sample that the AI gave. I also google searched for "How to..." when I got stucked.
+
+## Testing
+
+Writing the test code was a brain squeezing for me. Especially when this is my first time using SQL.
